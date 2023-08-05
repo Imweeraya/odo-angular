@@ -5,6 +5,7 @@ export class TodoItem {
     //     this.complete = complete;
     // }
 
+
     constructor(public task: string, public complete: boolean = false) { //defalt = false   TYPE SCRIPT
     }
 
