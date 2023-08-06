@@ -1,0 +1,29 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.mat-toolbar {
+  /*allow change color in css*/
+  background: #ff90d1;
+  color: #fff;
+}
+
+.tableContainer {
+  padding: 15px;
+}
+.fullWidth {
+  width: 100%;
+}
+
+.inputContainer {
+  margin: 15px 15px 5px;
+}
+
+.addButton {
+  margin: 5px;
+}
+
+.toggleContainer {
+  margin: 15px;
+  display: flex;
+}
